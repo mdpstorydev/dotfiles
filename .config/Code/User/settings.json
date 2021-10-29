@@ -1,0 +1,10 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.minimap.enabled": false,
+    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font, Iosevka Custom",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "editor.fontFamily": "Fira Code, Iosevka  Custom",
+    "editor.fontLigatures": true,
+    "terminal.external.linuxExec": "",
+    "workbench.colorTheme": "Gruvbox Dark Medium"
+}

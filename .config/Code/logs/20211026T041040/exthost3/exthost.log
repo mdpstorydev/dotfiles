@@ -1,0 +1,63 @@
+[2021-10-26 04:24:25.862] [exthost] [info] extension host started
+[2021-10-26 04:24:25.862] [exthost] [info] Skipping acquiring lock for /home/mdpstory/.config/Code/User/workspaceStorage/c1e6537f4fe31c1f778241be6136b791.
+[2021-10-26 04:24:25.912] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-26 04:24:25.912] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-26 04:24:25.923] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-26 04:24:25.923] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-26 04:24:25.925] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-26 04:24:25.925] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-10-26 04:24:25.938] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+[2021-10-26 04:24:25.938] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mdpstory/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2021-10-26 04:24:25.946] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: true, activationEvent: '*'
+[2021-10-26 04:24:25.946] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mdpstory/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-10-26 04:24:25.954] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2021-10-26 04:24:25.954] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mdpstory/.vscode/extensions/vscodevim.vim-1.21.10/out/extension
+[2021-10-26 04:24:26.005] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2021-10-26 04:24:26.005] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/npm/dist/npmMain
+[2021-10-26 04:24:26.220] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-26 04:24:26.220] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-10-26 04:24:26.296] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-26 04:24:26.296] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-26 04:24:26.486] [exthost] [info] eager extensions activated
+[2021-10-26 04:24:26.498] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-26 04:24:26.498] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-26 04:24:26.505] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-26 04:24:26.506] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-26 04:24:26.510] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-26 04:24:26.510] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-26 04:27:30.043] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2021-10-26 04:29:04.933] [exthost] [error] Error: spawn git ENOENT
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:269:19)
+    at onErrorNT (internal/child_process.js:465:16)
+    at processTicksAndRejections (internal/process/task_queues.js:80:21)
+[2021-10-26 04:30:10.403] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-26 04:30:11.449] [exthost] [info] exiting with code 0
+[2021-10-26 04:30:12.268] [exthost] [info] extension host started
+[2021-10-26 04:30:12.268] [exthost] [info] Skipping acquiring lock for /home/mdpstory/.config/Code/User/workspaceStorage/15e485ac8909d5c637836c3bd657438a.
+[2021-10-26 04:30:12.326] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-26 04:30:12.326] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-26 04:30:12.337] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-26 04:30:12.337] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-26 04:30:12.338] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-26 04:30:12.338] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/git/dist/main
+[2021-10-26 04:30:12.353] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+[2021-10-26 04:30:12.353] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mdpstory/.vscode/extensions/coenraads.bracket-pair-colorizer-1.0.61/out/src/extension
+[2021-10-26 04:30:12.363] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: true, activationEvent: '*'
+[2021-10-26 04:30:12.363] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mdpstory/.vscode/extensions/pkief.material-icon-theme-4.10.0/dist/extension
+[2021-10-26 04:30:12.370] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2021-10-26 04:30:12.370] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/mdpstory/.vscode/extensions/vscodevim.vim-1.21.10/out/extension
+[2021-10-26 04:30:12.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-26 04:30:12.749] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github/dist/extension.js
+[2021-10-26 04:30:12.804] [exthost] [info] eager extensions activated
+[2021-10-26 04:30:12.834] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-26 04:30:12.835] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-26 04:30:12.969] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-26 04:30:12.969] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-26 04:30:12.979] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-26 04:30:12.979] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-26 04:30:13.067] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-26 04:30:13.068] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-26 04:41:39.978] [exthost] [info] ExtensionService#_doActivateExtension vscode.simple-browser, startup: false, activationEvent: 'onOpenExternalUri:http'
+[2021-10-26 04:41:39.978] [exthost] [info] ExtensionService#loadCommonJSModule file:///opt/visual-studio-code/resources/app/extensions/simple-browser/dist/extension
+[2021-10-26 04:53:07.779] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-26 04:53:08.822] [exthost] [info] exiting with code 0

@@ -1,0 +1,233 @@
+Validating found git in: git
+Using git 2.33.1 from git
+Opening repository for path='/home/mdpstory' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/.PeaZip' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/.Xauthority' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.Xresources' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.Xresources.d' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/.bash_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.bash_logout' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.bash_profile' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.bashrc' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.cache' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/.config' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/.dmrc' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.face' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.fehbg' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.gtkrc-2.0' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.hushlogin' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.icons' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/.lesshst' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.local' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/.mozilla' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/.mpd' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/.mplayer' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/.ncmpcpp' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/.npm' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git rev-parse --git-dir
+Open repository: /home/mdpstory/.oh-my-zsh
+> git status -z -u
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/mdpstory/.oh-my-zsh' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "status",
+  "stderr": "error: object directory /home/adi1090x/Archcraft/packages/archcraft-skeleton/archcraft-omz/oh-my-zsh/objects does not exist; check .git/objects/info/alternates\nfatal: bad object HEAD\n"
+}
+Opening repository for path='/home/mdpstory/.pki' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/.vifm' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/.vim' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/.vim_mru_files' failed; ex=Error: spawn ENOTDIR
+> git rev-parse --git-dir
+Open repository: /home/mdpstory/.vim_runtime
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/mdpstory/.vim_runtime' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitCommand": "status",
+  "stderr": "error: object directory /home/adi1090x/Archcraft/packages/archcraft-skeleton/archcraft-vim/vimrc/objects does not exist; check .git/objects/info/alternates\nfatal: bad object HEAD\n"
+}
+Opening repository for path='/home/mdpstory/.viminfo' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.vimrc' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.vimrc-old' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.vscode' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/.wget-hsts' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.xampp_cp' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.xsettingsd' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.zcompdump-mdpstory-ArchCraft-5.8' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.zsh_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/.zshrc' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory/Desktop' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/Documents' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/Downloads' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/Music' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/Pictures' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/Public' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/Templates' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/Videos' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/git' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/go' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/mdpstory/install.sh' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/mdpstory' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
