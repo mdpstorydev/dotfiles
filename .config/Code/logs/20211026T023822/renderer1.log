@@ -1,4 +1,0 @@
-[2021-10-26 02:38:28.048] [renderer1] [info] Starting extension host with pid 1322.
-[2021-10-26 02:38:30.225] [renderer1] [error] [Extension Host] (node:1322) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
-(Use `code --trace-deprecation ...` to show where the warning was created)
-[2021-10-26 02:38:33.666] [renderer1] [info] Enabling inspect port on extension host with pid 1322.
